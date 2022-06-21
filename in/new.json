@@ -1,0 +1,13 @@
+{
+  "kind": "vat",
+  "seller_name": "Seler1",
+  "buyer_name": "Buyer1",
+  "positions": [
+    {
+      "name": "PName1",
+      "tax": 0,
+      "total_price_gross": 10,
+      "quantity": 1
+    }
+  ]
+}
